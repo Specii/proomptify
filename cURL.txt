@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -H "Authorization: Bearer YOUR_API_KEY" -d '{"text": "Generate content using Proomptify."}' http://api.proomptify.com/generate
