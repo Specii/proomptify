@@ -102,4 +102,4 @@ Leverage our sample code and scripts for seamless integration:
   
 ### Support
 
-If you encounter any issues or have questions, please refer to our Documentation or contact our Support Team for assistance.
+If you encounter any issues or have questions, please refer to our [Documentation](https://proomptify.com/docs) or contact our [Support Team](https://proomptify.com/contact) for assistance.
