@@ -1,6 +1,6 @@
 # Proomptify - Getting Started Guide
 
-Welcome to Proomptify! This guide will help you get started with installation, API integration, and more.
+Welcome to [Proomptify](https://proomptify.com)! This guide will help you get started with installation, API integration, and more.
 
 ## System Requirements
 
